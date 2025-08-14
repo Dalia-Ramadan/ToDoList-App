@@ -13,7 +13,7 @@ A simple and elegant Flutter-based To-Do List application that helps users manag
 
 ## Screenshots 📸
 
-![photo_2025-08-14_18-17-59](https://github.com/user-attachments/assets/1c38073d-96af-4eea-8efd-fff3e87456ce)
+![photo_2025-08-14_18-17-59](https://github.com/user-attachments/assets/1c05c386-a44a-4883-892d-69d39902294a)
 
 ## Getting Started 🚀
 
